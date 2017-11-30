@@ -50,7 +50,7 @@ h2 {
     margin-bottom: 15px; 
 }
 	
-block-1 {
+div.block-1 {
     background-color: #2b8c57;
     background-image: url("img/block-1-bg.png");
     background-repeat: repeat-x;
@@ -60,7 +60,7 @@ block-1 {
     padding: 20px 30px;
 }
 
-block-2 {
+div.block-2 {
     font-size: 12px;
     color: white;
     font-style: italic;
